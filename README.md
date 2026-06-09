@@ -1,7 +1,10 @@
-### Hi there 👋 I'm Koji Udagawa
-**Offline is peace.** 🍔
+### Welcome to the Engineer's Desk. ⚙️
+**Grind Works Inc. / Koji Udagawa**
 
-I am an indie developer focused on creating fast, local-first, and zero-config tools.
+Here we craft sharp, zero-config, and local-first software architectures. 
+Rather than relying on bloated cloud services, we build independent, highly optimized tools that return control and privacy to the user.
+
+**Offline is peace.**
 
 #### 🛠 My Projects
 - **[GrindSite](URL)** - The AI-Native CMS built for the Generative AI workflow. (PHP / SQLite)
