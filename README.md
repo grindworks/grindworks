@@ -1,4 +1,4 @@
-# Welcome to the Engineer's Desk. ⚙️
+# Welcome to the Engineer's Desk.
 
 **Koji Udagawa**  
 *AI Product Designer at Grind Works*
@@ -11,10 +11,13 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 
 ## 🛠 Projects
 
-- **GrindSite** — AI-native CMS for the generative AI era. *(PHP / SQLite)*
-- **GrindMoney** — Offline-first personal accounting.
-- **GrindPeople** — Local-first contact management.
-- **QR Coder** — High-performance QR code generation and verification.
+- **GrindSite** — AI-native CMS for the generative AI era.
+
+### Other Projects
+
+- GrindMoney
+- GrindPeople
+- QR Coder
 
 ## 💻 Tech Stack
 
