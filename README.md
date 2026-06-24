@@ -12,12 +12,9 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 ## 🛠 Projects
 
 - **GrindSite** — AI-native CMS for the generative AI era.
-
-### Other Projects
-
-- GrindMoney
-- GrindPeople
-- QR Coder
+- **GrindMoney** — Offline-first personal accounting.
+- **GrindPeople** — Local-first contact management.
+- **QR Coder** — High-performance QR code generation and verification.
 
 ## 💻 Tech Stack
 
