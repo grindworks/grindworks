@@ -5,7 +5,7 @@
 
 Building fast, zero-config, local-first software.
 
-Designed to be fast, minimal, privacy-first, and offline by default.
+Every product is built to be fast, minimal, privacy-first, and offline by default.
 
 > **Offline is peace.**
 
