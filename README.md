@@ -1,11 +1,11 @@
-### Welcome to the Engineer’s Desk. ⚙️
+### Welcome to the Engineer's Desk. ⚙️
 
-**Grind Works Inc. / Koji Udagawa**
+**Koji Udagawa**
+AI Product Designer at Grind Works
 
-We build sharp, zero-config, local-first software systems.
+Building fast, zero-config, local-first software.
 
-Instead of relying on heavy cloud dependencies, we design independent tools that are fast, minimal, and privacy-respecting.
-Everything is optimized to work offline-first by default.
+Designed to be fast, minimal, privacy-first, and offline by default.
 
 **Offline is peace.**
 
@@ -13,14 +13,10 @@ Everything is optimized to work offline-first by default.
 
 ### 🛠 Projects
 
-- **GrindSite** – AI-native CMS designed for generative workflows (PHP / SQLite)  
-  https://github.com/grindworks/grindworks
-
-- **GrindMoney** – Offline-first accounting system for personal finance
-
-- **GrindPeople** – Local-first contact and relationship hub
-
-- **QR Coder** – High-performance QR code generator built for reliability and speed
+- **GrindSite** — AI-native CMS for the generative AI era. *(PHP / SQLite)*
+- **GrindMoney** — Offline-first personal accounting.
+- **GrindPeople** — Local-first contact management.
+- **QR Coder** — High-performance QR code generation and verification.
 
 ---
 
@@ -32,7 +28,8 @@ Everything is optimized to work offline-first by default.
 
 ### Design Philosophy
 
-- Local-first over cloud-first  
-- Minimal dependencies, maximal control  
-- Performance as a default, not an optimization  
-- Privacy by design  
+- Local-first over cloud-first
+- Zero configuration
+- Minimal dependencies
+- Performance by default
+- Privacy by design
