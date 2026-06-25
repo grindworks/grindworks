@@ -9,14 +9,14 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 
 > **Offline is peace.**
 
-## 🛠 Projects
+## Projects
 
 - **GrindSite** — AI-native CMS for the generative AI era.
 - **GrindMoney** — Offline-first personal accounting.
 - **GrindPeople** — Local-first contact management.
 - **QR Coder** — High-performance QR code generation and verification.
 
-## 💻 Tech Stack
+## Tech Stack
 
 `PHP 8.3+` · `SQLite` · `Tailwind CSS` · `Alpine.js`
 
@@ -28,6 +28,6 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 - Performance by default
 - Privacy by design
 
-## 📬 Connect
+## Connect
 
 [GitHub](https://github.com/grindworks) · [X](https://x.com/koji_udagawa) · [GrindSite](https://grindsite.com)
