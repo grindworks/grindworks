@@ -12,8 +12,8 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 ## Projects
 
 - **GrindSite** — AI-native CMS for the generative AI era.
-- **GrindMoney** — Offline-first personal accounting.
-- **GrindPeople** — Local-first contact management.
+- **GrindCash** — A fully offline, local-first accounting relay app.
+- **GrindPeople** — Local-first contact management hub.
 - **QR Coder** — High-performance QR code generation and verification.
 
 ## Tech Stack
