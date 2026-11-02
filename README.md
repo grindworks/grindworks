@@ -13,9 +13,10 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 
 - **[GrindSite Core](https://grindsite.com/core/)** — A zero-config, SQLite-powered CMS built for generative AI workflows.
 - **[GrindNotes](https://grindsite.com/notes/)** — A local-first Markdown notebook for macOS (Apple Silicon). Now available.
-- **GrindCash** — A fully offline, local-first accounting relay app.
-- **GrindPeople** — Local-first contact management hub.
-- **QR Coder** — High-performance QR code generation and verification.
+- **[GrindCash](https://grindsite.com/tools/cash/)** — A serverless, offline-first accounting hub.
+- **[GrindMoney](https://grindsite.com/tools/money/)** — A serverless, offline bookkeeping app with account-title dictionaries for major Japanese accounting software.
+- **[GrindPeople](https://grindsite.com/tools/people/)** — Organize first, sync later. A serverless, fully offline contact hub.
+- **[QR Coder](https://grindsite.com/tools/qrcoder/)** — A privacy-first, fully offline QR code generator.
 
 ## Tech Stack
 
