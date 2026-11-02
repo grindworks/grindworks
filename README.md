@@ -11,14 +11,15 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 
 ## Projects
 
-- **GrindSite** — AI-native CMS for the generative AI era.
+- **[GrindSite Core](https://grindsite.com/core/)** — A zero-config, SQLite-powered CMS built for generative AI workflows.
+- **[GrindNotes](https://grindsite.com/notes/)** — A local-first Markdown notebook for macOS (Apple Silicon). Now available.
 - **GrindCash** — A fully offline, local-first accounting relay app.
 - **GrindPeople** — Local-first contact management hub.
 - **QR Coder** — High-performance QR code generation and verification.
 
 ## Tech Stack
 
-`PHP 8.3+` · `SQLite` · `Tailwind CSS` · `Alpine.js`
+`PHP 8.3+` · `SQLite` · `Tailwind CSS` · `Alpine.js` · `Rust` · `Tauri v2`
 
 ## Design Philosophy
 
@@ -30,4 +31,4 @@ Every product is built to be fast, minimal, privacy-first, and offline by defaul
 
 ## Connect
 
-[GitHub](https://github.com/grindworks) · [X](https://x.com/koji_udagawa) · [GrindSite](https://grindsite.com)
+[GitHub](https://github.com/grindworks) · [X](https://x.com/koji_udagawa) · [GrindSite](https://grindsite.com) · [Grind Works](https://grinds.jp/)
